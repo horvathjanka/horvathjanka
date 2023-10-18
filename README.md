@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 [Kedvenc oldalam](https://www.emag.hu/)
 
+![Hello](spenser-sembrat-M5e0QDvUPnw-unsplash.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

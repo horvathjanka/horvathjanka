@@ -1,10 +1,12 @@
 ### Hi there 👋
 Üdv a GitHUb fiókomban!
+[Kedvenc oldalam](https://www.emag.hu/)
+![Hello](spenser-sembrat-M5e0QDvUPnw-unsplash.jpg)
+
 <!--
 **horvathjanka/horvathjanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-[Kedvenc oldalam](https://www.emag.hu/)
 
 ![Hello](spenser-sembrat-M5e0QDvUPnw-unsplash.jpg)
 
